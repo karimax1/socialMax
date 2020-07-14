@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287324466027",
+    "firebase_url": "https://socialmax-353ae.firebaseio.com",
+    "project_id": "socialmax-353ae",
+    "storage_bucket": "socialmax-353ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287324466027:android:31add3e2bbabdb333a7a2e",
+        "android_client_info": {
+          "package_name": "com.lazaarapps.socialmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287324466027-gautd7o9lmseutkgbm3ha35n84j5k885.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazaarapps.socialmax",
+            "certificate_hash": "f5b6643f9f05776632621f098e535fb10889be67"
+          }
+        },
+        {
+          "client_id": "287324466027-u8bo3g27mpr3de3e28hb97ke37t6rpsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAa_K2DEg6UA_5Yugw98lx6acnc4mXJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287324466027-u8bo3g27mpr3de3e28hb97ke37t6rpsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
